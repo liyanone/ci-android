@@ -1,5 +1,6 @@
 #!/usr/bin/env bash
-#Add some bug
+# Add some bug
+# Add second bug
 export TOOLS_BIN_PATH="$ANDROID_HOME/tools/bin"
 export SDKMANAGER_PATH="$TOOLS_BIN_PATH/sdkmanager"
 
