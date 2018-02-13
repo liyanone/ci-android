@@ -1,5 +1,5 @@
 #!/usr/bin/env bash
-# Add a bug
+
 export APP_MODULE_PATH="app"
 export JSON_PATH="$APP_MODULE_PATH/google-services.json"
 
