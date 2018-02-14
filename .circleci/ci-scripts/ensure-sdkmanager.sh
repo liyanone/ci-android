@@ -1,6 +1,7 @@
 #!/usr/bin/env bash
 # Add some bug
 # Add second bug
+# Test pull request trigger
 export TOOLS_BIN_PATH="$ANDROID_HOME/tools/bin"
 export SDKMANAGER_PATH="$TOOLS_BIN_PATH/sdkmanager"
 
