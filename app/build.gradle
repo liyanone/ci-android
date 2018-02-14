@@ -1,3 +1,6 @@
+apply plugin: 'com.android.application'
+apply plugin: 'com.github.triplet.play'
+
 buildscript {
     dependencies {
         classpath gradlePlugins.buildProperties
