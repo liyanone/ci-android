@@ -3,7 +3,6 @@ buildscript {
         classpath gradlePlugins.buildProperties
         classpath gradlePlugins.fabric
         classpath gradlePlugins.kotlin
-        classpath 'com.github.triplet.gradle:play-publisher:1.2.0'
     }
 }
 
